@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/moofparser.dir/src/main.cpp.o CMakeFiles/moofparser.dir/src/boxes.cpp.o CMakeFiles/moofparser.dir/src/mediaDataBox.cpp.o  -o moofparser  -lcurl -lcryptopp lib/libgtest_main.a lib/libgtest.a -lpthread 
